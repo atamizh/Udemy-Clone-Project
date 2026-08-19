@@ -17,4 +17,4 @@ Technologies Used
 * CSS3 – For styling, layouts, colors, and responsiveness
 
 Project Purpose
-This project was created to practice and improve my HTML and CSS skills by recreating the design and layout of a popular online learning platform.
+* This project was created to practice and improve my HTML and CSS skills by recreating the design and layout of a popular online    learning platform.
